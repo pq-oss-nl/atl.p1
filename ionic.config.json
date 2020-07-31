@@ -1,0 +1,7 @@
+{
+  "name": "angular-testing-library-crash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
